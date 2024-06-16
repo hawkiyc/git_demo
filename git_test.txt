@@ -1,0 +1,7 @@
+hello git
+
+this is my first practise for git
+
+^^
+
+
