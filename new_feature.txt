@@ -1,1 +1,2 @@
 This is new feature for beta 0.0
+new feature for beta 0.1
