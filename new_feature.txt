@@ -2,3 +2,4 @@ This is new feature for beta 0.0
 new feature for beta 0.1
 new feature for beta 0.2 from remote team
 new feature for beta 0.3 from remote master
+new feature for beta 0.4 from local master
