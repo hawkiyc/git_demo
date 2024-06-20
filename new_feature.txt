@@ -4,3 +4,4 @@ new feature for beta 0.2 from remote team
 new feature for beta 0.3 from remote master
 new feature for beta 0.4 from local master
 new feature for beta 0.4.1 from remote master
+new feature for beta 0.5 from local team
